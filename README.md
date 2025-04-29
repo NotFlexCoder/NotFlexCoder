@@ -8,7 +8,7 @@ Started out with the goal of empowering new coders, I believe in the power of le
 - 🔍 SEO Expert
 - 💼 Bot Business
 - 🔥 Firebase Db & MongoDb
-+ a lot more :D
+- ➕ Lot more :D
 
 ## Contact
 - [Flex Help](https://telegram.me/Flex_Help)
