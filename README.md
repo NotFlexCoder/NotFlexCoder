@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🙏 Namaste Mitro, I'm Flex Hide! 
+I'm a passionate young developer from India and the founder of [Flex Coder](https://telegram.me/+gp5vtNeLZRJkYTJl). Community dedicated to helping beginners dive into the world of coding and development. 🚀
 
-<!--
-**NotFlexCoder/NotFlexCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Started out with the goal of empowering new coders, I believe in the power of learning through hands-on experience and sharing knowledge. 💡
 
-Here are some ideas to get you started:
+## Skills
+- 💻 National & International Blogger
+- 🔍 SEO Expert
+- 💼 Bot Business
+- 🔥 Firebase Db & MongoDb
++ a lot more :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [Flex Help](https://telegram.me/Flex_Help)
+- [Flex Hide](https://telegram.me/Flex_Hide)
