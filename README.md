@@ -6,8 +6,8 @@ Started out with the goal of empowering new coders, I believe in the power of le
 ## Skills
 - 💻 National & International Blogger
 - 🔍 SEO Expert
-- 💼 Bot Business
-- 🔥 Firebase Db & MongoDb
+- 💼 Telegram Bot Developer (Bot Business Specialist)
+- 🔥 Firebase Realtime Database & MongoDB Management
 - ➕ Lot more :D
 
 ## Contact
